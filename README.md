@@ -19,7 +19,7 @@ Please make sure you have inquirer installed. To do so, open your terminal, navi
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Google Drive Video](https://drive.google.com/file/d/1lLf7rs5piRZ_Fn6pkSKyW61mWDTRuMH-/view?usp=sharing)<br>
+View walk through video here - [Google Drive Video](https://drive.google.com/file/d/1-qQvTmhoaF6EwYj85zlRYa6mRzeg8JsI/view?usp=sharing)<br>
 <img src="./assets/image/samplepage.png">
 
 ## License 
